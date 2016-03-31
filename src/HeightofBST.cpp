@@ -47,6 +47,7 @@ int get_height(struct node *root){
 }
 
 int get_left_subtree_sum(struct node *root){
+	if (root -> left == NULL && root -> right == NULL)
 	return 0;
 }
 
