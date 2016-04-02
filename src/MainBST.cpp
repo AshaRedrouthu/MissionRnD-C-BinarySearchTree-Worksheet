@@ -27,7 +27,7 @@ struct node *newNode(int key)
 	return temp;
 }
 
-int main(){
 
+int main(){
 	//Use it for testing ,Creating BST etc
 }
